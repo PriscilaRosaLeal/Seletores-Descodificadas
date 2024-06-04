@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+div{
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    margin: -2px;
+}
+#canto{
+    border: 3px solid black;
+}
+h1{
+    text-align: center;
+}
+.hov:hover{
+    background-color: blueviolet;
+}
+.vermelha{
+    background-color:red;
+}
+.azul{
+    background-color: blue;
+}
+.verde{
+    background-color: green;
+}
+.amarela{
+    background-color: yellow;
+}
